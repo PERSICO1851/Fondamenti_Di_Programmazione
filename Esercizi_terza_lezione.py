@@ -1,4 +1,4 @@
-# ESERCIZI DI LABORATORIO: errori, if(), for(), while(), funzioni(), stringhe()
+# ESERCIZI 21-35: errori, if(), for(), while(), funzioni(), stringhe()
 
 # * ###############################################################################
 # * ESERCIZI 21- DA SVOLGERE DURANTE IL LABORATORIO
@@ -46,7 +46,7 @@ print("Recap conta_a:", conta_a("Azkaban"))
 
 
 #  * ------------------------------------------------------------------------------
-#  * ESERCIZIO 21 - CACCIA ALL'ERRORE
+#  * ESERCIZIO 22 - CACCIA ALL'ERRORE
 #  * ------------------------------------------------------------------------------
 
 # TODO Per ciascun frammento:
@@ -96,7 +96,7 @@ if (eta>=18):
 # ? Mancano degli elementi di sintassi
 
 # * ------------------------------------------------------------------------------
-# * ESERCIZIO 22 - LEGGERE UN TRACEBACK
+# * ESERCIZIO 23 - LEGGERE UN TRACEBACK
 # * ------------------------------------------------------------------------------
 
 # TODO Eseguite, una alla volta, le istruzioni seguenti togliendo il simbolo #.
@@ -116,7 +116,7 @@ if (eta>=18):
 # ? ###############################################################################
 
 # * ------------------------------------------------------------------------------
-# * ESERCIZIO 23 - check_grade
+# * ESERCIZIO 24 - check_grade
 # * ------------------------------------------------------------------------------
 
 # TODO Scrivere una funzione check_grade(a, b, c) che:
@@ -142,7 +142,7 @@ check_grade(21, 32, 2)
 # ? Se if = false allora restituisco -1
 
 # * ------------------------------------------------------------------------------
-# * ESERCIZIO 24 - check_date
+# * ESERCIZIO 25 - check_date
 # * ------------------------------------------------------------------------------
 
 # TODO Scrivere una funzione check_date(d, m, y) che ritorna True se la data è valida,
@@ -185,7 +185,7 @@ def check_date(d, m, y):
 # ? ###############################################################################
 
 # * ------------------------------------------------------------------------------
-# * ESERCIZIO 2.1 - somma_cifre
+# * ESERCIZIO 26 - somma_cifre
 # * ------------------------------------------------------------------------------
 
 # TODO Scrivere una funzione somma_cifre(s) che riceve una stringa composta da cifre
@@ -205,7 +205,7 @@ def somma_cifre(s):
 # ? Addiziono ogni cifra e la dichiaro come intero, ottengo in output la somma di tutti N
 
 # * ------------------------------------------------------------------------------
-# * ESERCIZIO 2.2 - bin_str_to_dec
+# * ESERCIZIO 27 - bin_str_to_dec
 # * ESERCIZIO AGGIUNTIVO / SE FINITE PRIMA
 # * ------------------------------------------------------------------------------
 
@@ -235,7 +235,7 @@ def bin_str_to_dec(s):
 # ? ###############################################################################
 
 # * ------------------------------------------------------------------------------
-# * ESERCIZIO 3.1 - cubic_root
+# * ESERCIZIO 28 - cubic_root
 # * ESERCIZIO AGGIUNTIVO / SE FINITE PRIMA
 # * ------------------------------------------------------------------------------
 
@@ -262,7 +262,7 @@ def cubic_root(n):
 # ? Se n è positivo o zero calcolo direttamente n ** (1/3).
 
 # * ------------------------------------------------------------------------------
-# * ESERCIZIO 3.2 - even_minus_odd
+# * ESERCIZIO 29 - even_minus_odd
 # * ------------------------------------------------------------------------------
 
 # TODO Scrivere una funzione even_minus_odd(a, b, c, d, e) che ritorna:
@@ -330,7 +330,7 @@ def even_minus_odd(a, b, c, d, e):
 # ? ###############################################################################
 
 # * ------------------------------------------------------------------------------
-# * ESERCIZIO 4.1 - chiedi_voto
+# * ESERCIZIO 30 - chiedi_voto
 # * ------------------------------------------------------------------------------
 
 # TODO Scrivere una funzione chiedi_voto() che:
@@ -354,7 +354,7 @@ def chiedi_voto():
 # ? ritorna il voto valido.
 
 # * ------------------------------------------------------------------------------
-# * ESERCIZIO 4.2 - strip_spazi
+# * ESERCIZIO 31 - strip_spazi
 # * ESERCIZIO AGGIUNTIVO / SE FINITE PRIMA
 # * ------------------------------------------------------------------------------
 
@@ -442,7 +442,7 @@ print(repr(strip_spazi("     ")))              # ''
 # ? ###############################################################################
 
 # * ------------------------------------------------------------------------------
-# * OPTIONAL A - PICCOLI ESPERIMENTI CON GLI ERRORI
+# * OPTIONAL 32 - PICCOLI ESPERIMENTI CON GLI ERRORI
 # * ------------------------------------------------------------------------------
 
 # TODO A.1 Cosa succede se dimenticate gli apici alla fine di una stringa?
@@ -489,7 +489,7 @@ print(repr(strip_spazi("     ")))              # ''
 
 
 # * ------------------------------------------------------------------------------
-# * OPTIONAL B - CALCOLI
+# * OPTIONAL 33 - CALCOLI
 # * ------------------------------------------------------------------------------
 
 # TODO B.1 Scrivere una espressione che calcoli il numero di secondi
@@ -540,7 +540,7 @@ print(repr(strip_spazi("     ")))              # ''
 
 
 # * ------------------------------------------------------------------------------
-# * OPTIONAL C - STRINGHE
+# * OPTIONAL 34 - STRINGHE
 # * ------------------------------------------------------------------------------
 
 # TODO C.1 Avete una stringa di 5 caratteri. Il carattere centrale è il punto.
@@ -567,7 +567,7 @@ def dec_frac_str_to_decs(s):
 # ? converto in numero con int(). Ritorno quindi 29 come intero e non come stringa.
 
 # * ------------------------------------------------------------------------------
-# * OPTIONAL D - FUNZIONI
+# * OPTIONAL 35 - FUNZIONI
 # * ------------------------------------------------------------------------------
 
 # TODO D.1 Scrivere una funzione root_max(a, b, c) che calcola le radici
