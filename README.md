@@ -46,7 +46,7 @@ Repository con il materiale di studio del corso di **Fondamenti di Programmazion
         └── README.md      # istruzioni e link di installazione per Windows
     │
     └──VIRTUALBOX
-        └──README_Virtualbox.md # istruzioni di installazione per tutti
+        └──README_Virtualbox.md     # istruzioni di installazione per tutti
 ```
 
 ---
