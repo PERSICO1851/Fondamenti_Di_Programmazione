@@ -39,11 +39,14 @@ Repository con il materiale di studio del corso di **Fondamenti di Programmazion
 ├── esercizi-raw/          # consegne senza soluzione
 ├── esercizi-svolti/       # soluzioni con spiegazione
 ├── legenda/               # comandi e concetti visti finora
-└── virtual-machine/
-    ├── mac/
-    │   └── README.md      # istruzioni di installazione per Mac
-    └── windows/
-        └── README.md      # istruzioni di installazione per Windows
+└── ambiente_VM_Sapienza_Windows&Mac/
+    ├── MAC_ARM64/
+    │   └── README.md      # istruzioni e link di installazione per Mac
+    └── WINDOWS_AMD64/
+        └── README.md      # istruzioni e link di installazione per Windows
+    │
+    └──VIRTUALBOX
+        └──README_Virtualbox.md # istruzioni di installazione per tutti
 ```
 
 ---
