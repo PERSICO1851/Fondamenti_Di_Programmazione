@@ -36,6 +36,7 @@ Repository con il materiale di studio del corso di **Fondamenti di Programmazion
 ```text
 .
 ├── README.md
+├── Eserciziario_prof.md   # link alla pagina web degli esercizi
 ├── esercizi-raw/          # consegne senza soluzione
 ├── esercizi-svolti/       # soluzioni con spiegazione
 ├── legenda/               # comandi e concetti visti finora

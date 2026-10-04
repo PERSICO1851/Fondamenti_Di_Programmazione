@@ -1,0 +1,1 @@
+LINK PAGINA ESERCIZI: https://q2a.di.uniroma1.it/assets/eserciziario-python/it/script/
